@@ -1,4 +1,4 @@
-## Trabajo práctico 1 de Aprendizaje Automático - Árboles de decisión
+## Trabajo práctico 2 de Aprendizaje Automático - Ensambles de modelos
 
 # Consignas
 
